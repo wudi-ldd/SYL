@@ -1,12 +1,6 @@
 ## Research on Image Identification Method of Rock Thin Slices in Tight Oil Reservoirs Based on Mask R-CNN
 ---
 
-### Catalogue
-1. [Environment](#Environment)
-2. [Explain](#Explain)
-3. [How2train](#How2train)
-4. [Result](#Result)
-
 ### Environment
 PyTorch >= 1.1
 
