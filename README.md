@@ -1,13 +1,13 @@
-## 基于Mask R-CNN的致密油储层岩石薄片图像鉴定方法研究
+## Research on Image Identification Method of Rock Thin Slices in Tight Oil Reservoirs Based on Mask R-CNN
 ---
 
-### 目录
-1. [所需环境 Environment](#所需环境)
-2. [文件说明 Explain](#文件说明)
-3. [训练步骤 How2train](#训练步骤)
-4. [识别结果 Result](#识别结果)
+### Catalogue
+1. [Environment](#Environment)
+2. [Explain](#Explain)
+3. [How2train](#How2train)
+4. [Result](#Result)
 
-### 所需环境
+### Environment
 PyTorch >= 1.1
 
 Python >= 3.6
@@ -18,4 +18,4 @@ TensorRT == 7.2.3.4
 
 tensorboardX
 
-为保证实验对比的可靠性，和SMRS使用相同的骨干网络(ResNet101)与学习率。
+To ensure the reliability of experimental comparison, the same backbone network (resnet101) and learning rate are used as SMR.
